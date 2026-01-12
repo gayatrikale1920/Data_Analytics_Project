@@ -1,0 +1,21 @@
+customer_id,customer_name,account_number,account_type,gender,act_open_date,products,state_of_residence
+1,Musa Okonkwo,6800756648,Savings,Male,07-01-2023,ExtraInterest,Lagos
+2,Funmi Balogun,8756270694,Savings,Female,18-11-2022,FamShare,Lagos
+3,Zainab Balogun,9142314106,Current,Female,10-05-2022,SaveMore,Port Harcourt
+4,Musa Mohammed,4241716107,Current,Female,18-06-2023,SaveMore,Abuja
+5,Bola Osman,5120197934,Savings,Male,26-07-2023,ExtraInterest,Lagos
+6,Amaka Nwosu,2386242699,Current,Female,07-08-2023,ExtraInterest,Abuja
+7,Fatima Aminu,1478805564,Savings,Male,10-02-2023,ExtraInterest,Abuja
+8,Suleiman Okonkwo,7793980443,Savings,Female,15-04-2022,FamShare,Abuja
+9,Amaka Balogun,7702233282,Savings,Female,02-06-2023,SaveMore,Lagos
+10,Lola Okeke,3311784874,Savings,Female,07-05-2023,SaveMore,Lagos
+11,Amaka Adeyemi,3987734263,Savings,Female,30-05-2022,ExtraInterest,Port Harcourt
+12,Suleiman Okafor,1853064745,Savings,Female,17-07-2023,FamShare,Port Harcourt
+13,Uchenna Eze,9978810439,Savings,Female,12-06-2023,FamShare,Lagos
+14,Amaka Onwuka,2131165735,Current,Female,20-03-2023,ExtraInterest,Lagos
+15,Amaka Olawale,8369683288,Savings,Female,27-12-2022,ExtraInterest,Lagos
+16,Dayo Olawale,7583445057,Savings,Male,08-11-2022,ExtraInterest,Abuja
+17,Nafisa Aminu,2704057243,Savings,Female,09-08-2023,ExtraInterest,Abuja
+18,Nafisa Okeke,9251741685,Savings,Female,05-08-2022,SaveMore,Abuja
+19,Yemi Aminu,5648063448,Savings,Male,12-09-2022,ExtraInterest,Port Harcourt
+20,Dayo Osman,5292557368,Savings,Male,15-08-2023,ExtraInterest,Abuja
